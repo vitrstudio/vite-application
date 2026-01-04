@@ -1,4 +1,4 @@
-## Seed Application
+## Vite Application
 This is a simple static website application.
 
 ### First Steps
